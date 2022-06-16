@@ -9,6 +9,6 @@
 <ul><li>Outline the subjects to cover</li> </ul>
 <p>Before you begin writing, it is crucial to plan yourself accordingly. Identifying the applicable topics is often the most significant task. Since there are many objectives, it is advisable to molyneux them all before you start writing. </p>
 <p>Once you have a stated topic, it is equally important to ensure that you have a tangible outline. The background of the matter gives you ample opportunity to make way for the ideas you wish to discuss. </p>
-<ol><li>Selecting a preferred thesis</li> </ol>
+<ul><li>Selecting a preferred thesis</li></ul>
 <p>Developing an appropriate thesis is the key to acquiring the published material. It exemplifies and supports the established claims. Hence, it is worth spending considerable time in search of sources that can support the case. </p>
 <p>Only then can you be confident of approaching a persuasive topic. From the works of Aristotle, Plato, and Martin Luther, Socrates are to some extent responsible for inspiring scholars in the 19th century. </p>
